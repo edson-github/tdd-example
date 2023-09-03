@@ -1,0 +1,25 @@
+1693699354804	geckodriver	INFO	Listening on 127.0.0.1:49346
+1693699354837	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hw/r2sy072519z2w1l4c_xgng7w0000gn/T/rust_mozprofileAOhI4S"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693699355236	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693699355386	Marionette	INFO	Listening on port 49353
+WebDriver BiDi listening on ws://127.0.0.1:49347
+Read port: 49353
+1693699355526	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49347/devtools/browser/ca3579f3-3807-40c0-944d-2da51a00ea70
+1693699356265	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1693699534057	geckodriver	INFO	Listening on 127.0.0.1:49435
+1693699534578	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/hw/r2sy072519z2w1l4c_xgng7w0000gn/T/rust_mozprofileYjfwjV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1693699534878	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1693699535005	Marionette	INFO	Listening on port 49443
+WebDriver BiDi listening on ws://127.0.0.1:49436
+Read port: 49443
+1693699535136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+UNSUPPORTED (log once): POSSIBLE ISSUE: unit 1 GLD_TEXTURE_INDEX_2D is unloadable and bound to sampler type (Float) - using zero texture because texture unloadable
+DevTools listening on ws://127.0.0.1:49436/devtools/browser/f1e83d6c-f7c1-4f84-96a6-96092b058b8b
